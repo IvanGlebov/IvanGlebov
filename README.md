@@ -8,7 +8,7 @@ I have different Arduino/ESP projects and don't mind if you'll take some code fr
 
 Fell free to contact with me via my mail, or Telegram:
 
-Mail: ivan.i.glebov@outlook.com
+Mail: glebov.vanya@list.ru
 
 Telegram: @Iota_02
 
