@@ -13,7 +13,7 @@ Mail: glebov.vanya@list.ru
 Telegram: @Iota_02
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGlebov&show_icons=true&theme=radical)
 
 <!---
 IvanGlebov/IvanGlebov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
