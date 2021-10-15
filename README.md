@@ -15,7 +15,9 @@ Telegram: @Iota_02
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGlebov&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGlebov&layout=compact&bg_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGlebov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGlebov&layout=compact&bg_color=#000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!---
 IvanGlebov/IvanGlebov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
