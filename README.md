@@ -17,7 +17,7 @@ Telegram: @Iota_02
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGlebov&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iota02&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ivan Glebov&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
